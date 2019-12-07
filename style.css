@@ -1,0 +1,17 @@
+html {
+    font-size: 62.5%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+body {
+    background: url("./assets/ancient-art-cosmos-dark-262786.jpg");
+    background-size: contain;
+    background-repeat: norepeat;
+    background-attachment: fixed;
+
+}
+
